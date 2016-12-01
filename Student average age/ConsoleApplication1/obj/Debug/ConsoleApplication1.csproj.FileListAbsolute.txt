@@ -1,0 +1,6 @@
+D:\CODEAND MOVIE\VS2015 practice\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\CODEAND MOVIE\VS2015 practice\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CODEAND MOVIE\VS2015 practice\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CODEAND MOVIE\VS2015 practice\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\CODEAND MOVIE\VS2015 practice\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CODEAND MOVIE\VS2015 practice\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
